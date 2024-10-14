@@ -1,0 +1,29 @@
+[33mcommit 3e878dd0ec61303fb4a8e00063b8dd7797a509d5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Laboratório FIAP <labsfiap@fiap.com.br>
+Date:   Mon Oct 14 20:07:04 2024 -0300
+
+    Adicionando dependências get, shared e sqfLite
+
+[33mcommit ab448663f648fc89ddcd7c3c281b6d4456c5a91c[m
+Author: Laboratório FIAP <labsfiap@fiap.com.br>
+Date:   Mon Oct 14 19:58:52 2024 -0300
+
+    Subindo projeto correto em flutter
+
+[33mcommit 6c23fab301bfb2affc949afb1fd612bcb24b739b[m
+Author: Laboratório FIAP <labsfiap@fiap.com.br>
+Date:   Mon Oct 14 19:56:23 2024 -0300
+
+    Removendo projeto em android
+
+[33mcommit 7d8c1a9338f7b97d6c6f0643a429e0972ad98fec[m
+Author: Laboratório FIAP <labsfiap@fiap.com.br>
+Date:   Mon Oct 14 19:52:17 2024 -0300
+
+    Subindo projeto inicial em branco
+
+[33mcommit 76927a736085d8313e7408d27ba17e1704162a69[m
+Author: Gabriel Arbigaus <114034024+oarbigauss@users.noreply.github.com>
+Date:   Mon Oct 14 19:47:04 2024 -0300
+
+    Initial commit
